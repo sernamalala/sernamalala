@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sernamalala
 - 👀 I’m interested in music, being a better person and programming!
-- 🌱 I’m currently learning HTML, CSS and JavaScript. I am also learning Java  and other frameworks for JavaScript.
-- 💞️ I’m looking to collaborate on any small beginner friendly front end projects and any java related projects.
+- 🌱 I’m currently learning HTML, CSS and JavaScript. I am also learning Python.
+- I am commited to becoming a software developer!
 - 📫 You can reach me via this email address: sm.sernamalala@gmail.com
 
 <!---
