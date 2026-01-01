@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sernamalala
-- 👀 I’m interested in programming, music and just being happy overall!
-- 🌱 I’m currently learning HTML, CSS, Python, and JavaScript. 
+- 👀 I’m interested in programming, SAP Business One, music and just being happy overall!
+- 🌱 I’m currently reinforcing my Python, and JavaScript skills. 
 - 📫 You can reach me via this email address: sm.sernamalala@gmail.com
 
 <!---
